@@ -2,6 +2,11 @@
 0-DataIngestionParsing/RAG_PARSING_LEARNING_NOTES.md
 VECTOR_EMBEDDINGS_AND_STORES_LEARNING_NOTES.md
 
+# Python and environment artifacts.
+__pycache__/
+*.py[cod]
+.venv/
+
 # Local reusable prompts.
 local_prompts/
 
